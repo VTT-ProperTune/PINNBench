@@ -236,8 +236,8 @@ class Main:
 
 
     def plot_log(self, run_name):
-        run_name_np = "TEST_soft/" +"TEST_np/" +  run_name
-        run_name = "TEST_soft/" +  run_name
+        run_name_np = "logs/" +"TEST_np/" +  run_name
+        run_name = "logs/" +  run_name
         self.plot_history(run_name + "_history.png") #Plot loss/weight history
 
         predicted = self.prediction()                 #Get prediction on domain
