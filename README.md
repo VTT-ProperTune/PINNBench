@@ -1,3 +1,12 @@
+
+<table>
+  <tr>
+    <td><img src="PINN_clean/logs/MLP_Adam_Conv_causal_beta=25_prediction.png" alt="Image 1" width="400"/></td>
+    <td><img src="PINN_clean/logs/Transformer_LS_Wave_beta=3_prediction.png" alt="Image 2" width="400"/></td>
+  </tr>
+</table>
+
+
 # PINNBench
 PINNBench offers a platform to evaluate various architectures and methods for data-free PINN 1D designs, supporting an expanding set of PDE equations.
 
