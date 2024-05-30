@@ -24,7 +24,7 @@ Build the project with:
 ## Running the code
 
 
-To run the code, execute the main.py file, which contains all the controlling parameters.
+To run the code, execute the `main.py` file, which contains all the controlling parameters.
 
 
 To reproduce the results from the bachelor thesis, use the following configurations:
