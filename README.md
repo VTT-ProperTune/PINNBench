@@ -29,7 +29,8 @@ To run the code, execute the `main.py` file, which contains all the controlling 
 
 To reproduce the results from the bachelor thesis, use the following configurations:
 
-```PINN = PINN_types.PINN_MLP.PINN(
+```
+PINN = PINN_types.PINN_MLP.PINN(
     input_dim       = 2,                                                             
     output_dim      = 1,                                                              
     N_hidden        = 4,                                                               
